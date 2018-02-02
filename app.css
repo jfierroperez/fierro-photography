@@ -1,0 +1,23 @@
+h1{
+  font-family: "Halant", monospace;
+  font-size: 4vw;
+  color:#E5E5E1;
+}
+h2{
+  font-family: "Barlow Condensed","monospace";
+  font-size: 4vw;
+}
+header{
+  background-color: #25402B;
+  background-image:url("forest-girl.jpg");
+  padding: 10vw 5em;
+  background-position: center center;
+  background-size: cover;
+}
+p{
+  font-family: "Abel", "monospace";
+  font-size: 1.5vw;
+}
+.social-media{
+  font-size: 1.75vw;
+}
